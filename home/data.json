@@ -1,0 +1,156 @@
+{
+  "code": 200,
+  "data": {
+    "banner": [{
+      "id": 0,
+      "title": "1",
+      "alt": "1",
+      "url": "https://liangsfs.github.io/coffee-pictrue/home/011.jpg"
+    },
+      {
+        "id": 1,
+        "title": "2",
+        "alt": "2",
+        "url": "https://liangsfs.github.io/coffee-pictrue/home/012.jpg"
+      },
+      {
+        "id": 2,
+        "title": "3",
+        "alt": "3",
+        "url": "https://liangsfs.github.io/coffee-pictrue/home/013.jpg"
+      }
+    ],
+    "guides": [{
+      "id": 0,
+      "iconurl": "https://liangsfs.github.io/coffee-pictrue/home/b1.png",
+      "title": "咖啡菜单"
+    },
+      {
+        "id": 1,
+        "iconurl": "https://liangsfs.github.io/coffee-pictrue/home/b2.png",
+        "title": "冲煮方式"
+      },
+      {
+        "id": 2,
+        "iconurl": "https://liangsfs.github.io/coffee-pictrue/home/b3.png",
+        "title": "记录风味"
+      },
+      {
+        "id": 3,
+        "iconurl": "https://liangsfs.github.io/coffee-pictrue/home/b4.png",
+        "title": "品味余香"
+      }
+    ],
+    "selected": [{
+      "id": 0,
+      "img": {
+        "title": "1",
+        "alt": "1",
+        "url": "https://liangsfs.github.io/coffee-pictrue/home/timg.jpg"
+      },
+      "name": "Allan Lesch",
+      "describe": "Maxime dolorem"
+
+    },
+      {
+        "id": 1,
+        "img": {
+          "title": "2",
+          "alt": "2",
+          "url": "https://liangsfs.github.io/coffee-pictrue/home/timg.jpg"
+        },
+        "name": "Dennis Funk",
+        "describe": "Iusto omnis adi"
+
+      },
+      {
+        "id": 2,
+        "img": {
+          "title": "3",
+          "alt": "3",
+          "url": "https://liangsfs.github.io/coffee-pictrue/home/timg.jpg"
+        },
+        "name": "Zachary Sawayn",
+        "describe": "Non est odit ra"
+
+      },
+      {
+        "id": 3,
+        "img": {
+          "title": "4",
+          "alt": "4",
+          "url": "https://liangsfs.github.io/coffee-pictrue/home/timg.jpg"
+        },
+        "name": "Elvis Herman",
+        "describe": "Necessitatibus"
+
+      },
+      {
+        "id": 4,
+        "img": {
+          "title": "5",
+          "alt": "5",
+          "url": "https://liangsfs.github.io/coffee-pictrue/home/timg.jpg"
+        },
+        "name": "Mervin Bruen",
+        "describe": "Temporibus blan"
+
+      },
+      {
+        "id": 5,
+        "img": {
+          "title": "6",
+          "alt": "6",
+          "url": "https://liangsfs.github.io/coffee-pictrue/home/timg.jpg"
+        },
+        "name": "Ms. Emelia Kohler",
+        "describe": "Quis facilis qu"
+
+      },
+      {
+        "id": 6,
+        "img": {
+          "title": "7",
+          "alt": "7",
+          "url": "https://liangsfs.github.io/coffee-pictrue/home/timg.jpg"
+        },
+        "name": "Mrs. Liliane Carter",
+        "describe": "Est quaerat ut "
+
+      },
+      {
+        "id": 7,
+        "img": {
+          "title": "8",
+          "alt": "8",
+          "url": "https://liangsfs.github.io/coffee-pictrue/home/timg.jpg"
+        },
+        "name": "Lindsey Dickinson",
+        "describe": "A suscipit itaq"
+
+      },
+      {
+        "id": 8,
+        "img": {
+          "title": "9",
+          "alt": "9",
+          "url": "https://liangsfs.github.io/coffee-pictrue/home/timg.jpg"
+        },
+        "name": "Rusty Macejkovic",
+        "describe": "Vel porro tempo"
+
+      },
+      {
+        "id": 9,
+        "img": {
+          "title": "10",
+          "alt": "10",
+          "url": "https://liangsfs.github.io/coffee-pictrue/home/timg.jpg"
+        },
+        "name": "Arvid Nader",
+        "describe": "Vel sunt magnam"
+
+      }
+    ]
+  }
+}
