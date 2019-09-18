@@ -3,7 +3,7 @@
   "data": [
     {
       "id": 0,
-      "hadLine": "Ms. Adela Bergstrom",
+      "headLine": "Ms. Adela Bergstrom",
       "img": {
         "url": "https://liangsfs.github.io/coffee-pictrue/theme/theme-00.jpg",
         "alt": "1",
@@ -13,7 +13,7 @@
     },
     {
       "id": 1,
-      "hadLine": "Ms. Adela Bergstrom",
+      "headLine": "Ms. Adela Bergstrom",
       "img": {
         "url": "https://liangsfs.github.io/coffee-pictrue/theme/theme-01.jpg",
         "alt": "2",
@@ -23,7 +23,7 @@
     },
     {
       "id": 2,
-      "hadLine": "Ms. Adela Bergstrom",
+      "headLine": "Ms. Adela Bergstrom",
       "img": {
         "url": "https://liangsfs.github.io/coffee-pictrue/theme/theme-02.jpg",
         "alt": "3",
