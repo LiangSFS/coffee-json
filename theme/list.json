@@ -9,7 +9,7 @@
         "title": "1"
       },
       "des": "Ms. Adela Bergstrom",
-      "swiperApi": "/coffee-json/theme/swiper01.json"
+      "swiperApi": "/coffee-json/theme/swiper03.json"
     },
     {
       "id": 1,
@@ -19,7 +19,7 @@
         "title": "2"
       },
       "des": "Wava Christiansen",
-      "swiperApi": "/coffee-json/theme/swiper02.json"
+      "swiperApi": "/coffee-json/theme/swiper01.json"
     },
     {
       "id": 2,
@@ -29,7 +29,7 @@
         "title": "3"
       },
       "des": "Vernon Rowe",
-      "swiperApi": "/coffee-json/theme/swiper03.json"
+      "swiperApi": "/coffee-json/theme/swiper02.json"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
         "title": "4"
       },
       "des": "Pat Hintz",
-      "swiperApi": "/coffee-json/theme/swiper04.json"
+      "swiperApi": "/coffee-json/theme/swiper01.json"
     },
     {
       "id": 4,
@@ -49,7 +49,7 @@
         "title": "5"
       },
       "des": "Gilbert Runolfsson",
-      "swiperApi": "/coffee-json/theme/swiper05.json"
+      "swiperApi": "/coffee-json/theme/swiper02.json"
     },
     {
       "id": 5,
@@ -59,7 +59,7 @@
         "title": "6"
       },
       "des": "Prof. Reuben Kulas Sr.",
-      "swiperApi": "/coffee-json/theme/swiper06.json"
+      "swiperApi": "/coffee-json/theme/swiper03.json"
     },
     {
       "id": 6,
@@ -69,7 +69,7 @@
         "title": "7"
       },
       "des": "Harrison Wilkinson",
-      "swiperApi": "/coffee-json/theme/swiper07.json"
+      "swiperApi": "/coffee-json/theme/swiper02.json"
     },
     {
       "id": 7,
@@ -79,7 +79,7 @@
         "title": "8"
       },
       "des": "Mr. Mathew Zboncak",
-      "swiperApi": "/coffee-json/theme/swiper08.json"
+      "swiperApi": "/coffee-json/theme/swiper03.json"
     },
     {
       "id": 8,
@@ -89,7 +89,7 @@
         "title": "9"
       },
       "des": "Leonora Walker",
-      "swiperApi": "/coffee-json/theme/swiper09.json"
+      "swiperApi": "/coffee-json/theme/swiper03.json"
     },
     {
       "id": 9,
@@ -99,7 +99,7 @@
         "title": "10"
       },
       "des": "Manuel Mante",
-      "swiperApi": "/coffee-json/theme/swiper10.json"
+      "swiperApi": "/coffee-json/theme/swiper03.json"
     }
   ]
 }
